@@ -20,3 +20,14 @@ C:\Users\ratghosh\Desktop\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
 C:\Users\ratghosh\Desktop\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
 C:\Users\ratghosh\Desktop\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
 C:\Users\ratghosh\Desktop\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\obj\Debug\HelloWorldTests.csprojAssemblyReference.cache
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CoreCompileInputs.cache
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CopyComplete
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\Users\ratghosh\Desktop\HW\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
